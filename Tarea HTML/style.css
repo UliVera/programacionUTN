@@ -1,0 +1,31 @@
+main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: end;
+    font-size: 20px;
+    padding: 5px;
+    border: 5px solid orange;
+    background-color: blanchedalmond;
+}
+.img{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 30%;
+    border: 5px solid black;
+}
+div .title{
+    font-size: 30px;
+}
+::marker {
+    color: blanchedalmond;
+  }
+.social{
+    position: relative;
+    top: -400px;
+    left: -970px;
+    border: 1px solid red;
+    width: 80px;
+}
+.link{
+
+}
