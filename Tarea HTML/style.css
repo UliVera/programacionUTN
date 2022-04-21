@@ -21,10 +21,8 @@ div .title{
   }
 .social{
     position: relative;
-    top: -400px;
-    left: -970px;
+    top: 0px;
+    left: -90%;
     border: 1px solid red;
     width: 80px;
-}
-.link{
 }
