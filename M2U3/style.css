@@ -1,6 +1,7 @@
 
+
 h1, h2{
-    font-family: "Itim" cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .hero {
@@ -21,7 +22,7 @@ h1, h2{
 }
 .lista-novedades li a {
     background-color: #fff;
-    font-family: "Itim", cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 1.2rem;
     color: #a0a0a0;
@@ -46,7 +47,7 @@ h1, h2{
     opacity: 1;
 }
 
-.testimonios{
+.testimonio{
     background-color: #EF512F;
     padding-bottom: 3rem !important;
 }
@@ -55,3 +56,14 @@ h1, h2{
     padding: 30px 30px;
 }
 
+.staff{
+    background-color: gainsboro;
+}
+.card-img-top{
+    max-height: 400px;
+    min-height: 400px;
+}
+
+.col-md-4 {
+    padding-left: 100px;
+}
